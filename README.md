@@ -1,6 +1,4 @@
-# Windows-Troubleshooting-Toolkit
-
-A growing collection of PowerShell scripts for diagnosing and fixing common Windows issues, built from 23+ years of hands-on IT support experience.
+# Windows11-Troubleshooting-Toolkit
 
 ## Scripts
 
